@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital@0;1&display=swap');
+
+.plus-jakarta {
+    font-family: "Plus Jakarta Sans",serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bg-sidebar { 
+    background: #006BB5;
+}
+
+.cta-btn { 
+    color: #006BB5; 
+}
+
+.upgrade-btn { 
+    background: #005996; 
+}
+
+.upgrade-btn:hover { 
+    background: red; 
+}
+
+.active-nav-link {
+    background: #005996; 
+}
+
+.nav-item:hover { 
+    background: #005996; 
+}
+
+.account-link:hover { 
+    background: #006BB5; 
+}
